@@ -1,6 +1,5 @@
-Repositório para armazenar arquivos do Mysql como exercícios (Tudo vai estar explicado na descrição de cada exercício).
+Repositório para armazenar arquivos do Mysql como exercícios.
 LEIA COM ATENÇÃO
-Vou fazer aqui para ficar mais facil.
 1 é um banco do Mysql de venda de salgados.
 2 é um banco do Mysql comum como demonstração do que uma pessoa precisa ter.
 3 é um banco do Mysql que mostra uma modelagem para um banco de uma empresa como Avon.
